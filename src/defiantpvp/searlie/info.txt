@@ -1,0 +1,18 @@
+-- How it works --
+
+-- Enchantments Types --
+    Passive
+    Offensive
+    Defensive
+    Walking
+
+-- Enchantment Flow --
+    Passive
+        On-Equip
+        On-Unequip
+    Walking
+        When walking
+    Offensive
+        Deal Damage
+    Defensive
+        Negate Damage
